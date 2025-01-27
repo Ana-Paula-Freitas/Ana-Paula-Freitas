@@ -39,3 +39,7 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/Ana-Paula-Freitas/Ana-Paula-Freitas/blob/output/github-contribution-grid-snake.svg)
+
+###
